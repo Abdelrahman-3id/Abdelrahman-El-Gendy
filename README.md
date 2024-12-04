@@ -5,7 +5,7 @@
 
 <br>
 
-I am an undergrad of computers and information technology in Tanta University. My main specialization is AI & ML - Android Development. 
+I am a Fresh Graduate with a Bachalor's in Computer Science. 
 I am interested in the field of AI & ML ,Android Development and Cloud Computing and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. 
 
 <img align="right" alt="Coding" width="400px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
